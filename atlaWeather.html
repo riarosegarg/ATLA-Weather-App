@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Avatar Weather App</title>
+  <link href="https://fonts.googleapis.com/css2?family=Marcellus&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="atlaStyle.css" />
+</head>
+<body>
+
+  <div class="card">
+
+    <!-- Default Aang background -->
+    <div class="content">
+      <img src="images/atla.jpeg" class="bg-image" />
+    </div>
+
+    <!-- Search Bar -->
+    <div class="search">
+      <input type="text" placeholder="Search a city" spellcheck="false" />
+      <button><img src="images/search.jpg" /></button>
+    </div>
+
+    <!-- Error Message -->
+    <div class="error">
+      <p>Invalid city name</p>
+    </div>
+
+    <!-- Weather Info -->
+    <div class="weather">
+      <!-- Weather icon will be inserted here via JavaScript -->
+      <h1 class="temp">--°F</h1>
+      <h2 class="city">Welcome to the ATLA Weather App</h2>
+      <p class="quote">"When we hit our lowest point, we are open to the greatest change."</p>
+
+ <div class="details">
+    <div class="col">
+      <img src="images/humidity.png" />
+      <div>
+        <p class="humidity">--%</p>
+        <p>Humidity</p>
+      </div>
+    </div>
+    <div class="col">
+      <img src="images/wind.png" />
+      <div>
+        <p class="wind">-- mph</p>
+        <p>Wind Speed</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <script src="atlaScript.js"></script>
+</body>
+</html>
