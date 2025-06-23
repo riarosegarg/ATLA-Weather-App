@@ -1,21 +1,21 @@
 This is an Avatar the Last Air Bender Weather App where different characters represent different conditions in the sky. 🔥🌊🌪🌍
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-Aang: mist, fog, haze
+• Aang: mist, fog, haze
 
-Katara: rain
+• Katara: rain
 
-Iroh: clouds
+• Iroh: clouds
 
-Yue: snow
+• Yue: snow
 
-Zuko: clear
+• Zuko: clear
 
-Azula: thunderstorm 
+• Azula: thunderstorm 
 
-Toph: dust, smoke, etc. (Coming soon!)
+• Toph: dust, smoke, etc. (Coming soon!)
 
-Avatar State: Tornado (Coming soon!)
+• Avatar State: Tornado (Coming soon!)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
