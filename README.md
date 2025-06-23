@@ -1,6 +1,3 @@
-*Please don't do anything with my API Key, I'm trying to figure out how to hide it lol🙏*
------------------------------------------------------------------------------------------------------------------------
-
 This is an Avatar the Last Air Bender Weather App where different characters represent different conditions in the sky. 
 
 Aang: mist, fog, haze
@@ -29,3 +26,5 @@ I also used Chat GPT for any issues I encountered while debugging, as I am not t
 
 All the images are hand-drawn by me through Procreate (excluding the wind and humidity symbols. Image credit for these: https://www.freepik.com/)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+*Please don't do anything with my API Key, I'm trying to figure out how to hide it lol🙏*
