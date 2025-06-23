@@ -1,4 +1,4 @@
-This is an Avatar the Last Air Bender Weather App where different characters represent different conditions in the sky. 
+This is an Avatar the Last Air Bender Weather App where different characters represent different conditions in the sky. 🔥🌊🌪🌍
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Aang: mist, fog, haze
