@@ -1,4 +1,5 @@
 *Please don't do anything with my API Key, I'm trying to figure out how to hide it lol🙏*
+-----------------------------------------------------------------------------------------------------------------------
 
 This is an Avatar the Last Air Bender Weather App where different characters represent different conditions in the sky. 
 
@@ -17,6 +18,8 @@ Azula: thunderstorm
 Toph: dust, smoke, etc. 
 
 Avatar State: Tornado (Coming soon!)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 I used a YouTube tutorial to first understand the code behind connnecting a weather API to code. I followed the tutorial, then created my own project
 where I changed and added many elements to personalize my app. 
