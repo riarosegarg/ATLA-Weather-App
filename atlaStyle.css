@@ -49,13 +49,20 @@ body {
 
 
 
-
 .weather {
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
   transition: opacity 0.5s ease;
+
+  /*Transparent background for weather information*/
+  background: rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 50px;
+
+  margin-top: 25px;
 }
 .weather.active {
   opacity: 1;
@@ -72,11 +79,6 @@ body {
   opacity: 1;
   pointer-events: auto;
 }
-
-
-
-
-
 
 .search,
 .weather,
@@ -99,9 +101,11 @@ body {
   padding: 10px 20px;
   border-radius: 12px;
   border: none;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(0, 0, 0, 0.35);
   color: #fff;
   font-size: 16px;
+
+  backdrop-filter: blur(2px);
 }
 
 .search input::placeholder {
@@ -112,10 +116,15 @@ body {
   width: 50px;
   height: 50px;
   border: none;
-  background: #fff;
+  background: transparent;
   border-radius: 12px;
   margin-left: 10px;
   cursor: pointer;
+
+  background: rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 50px;
 }
 
 .search button img {
@@ -155,6 +164,16 @@ body {
   margin-right: 60px; /* increase to move further right */
 }
 
+
+.details .col:first-child img {
+  margin-left: 20px; /* adjust the value as needed */
+}
+
+
+
+
+
+
 .col {
   display: flex;
   align-items: center;
@@ -163,7 +182,7 @@ body {
 
 .col img {
   width: 60px;
-  margin-right: 20px;
+  margin-right: 10px;
 }
 
 .humidity{
