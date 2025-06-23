@@ -1,12 +1,19 @@
 *Please don't do anything with my API Key, I'm trying to figure out how to hide it lol🙏*
 
 This is an Avatar the Last Air Bender Weather App where different characters represent different conditions in the sky. 
+
 Aang: mist, fog, haze
+
 Katara: rain
+
 Iroh: clouds
+
 Yue: snow
+
 Zuko: clear
+
 Azula: thunderstorm 
+
 Toph: dust, smoke, etc. 
 
 I used a YouTube tutorial to first understand the code behind connnecting a weather API to code. I followed the tutorial, then created my own project
