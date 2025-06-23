@@ -23,6 +23,8 @@ I used a YouTube tutorial to first understand the code behind connnecting a weat
 where I changed and added many elements to personalize my app. 
 Link to the YouTube video: https://youtu.be/MIYQR-Ybrn4?si=c_W0X4J3pp3aDYzh
 
+API Used: https://openweathermap.org/current
+
 I also used Chat GPT for any issues I encountered while debugging, as I am not too familiar with JS/CSS/HTML. 
 
 All the images are hand-drawn by me through Procreate (excluding the wind and humidity symbols. Image credit for these: https://www.freepik.com/)
