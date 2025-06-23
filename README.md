@@ -15,5 +15,5 @@ Link to the YouTube video: https://youtu.be/MIYQR-Ybrn4?si=c_W0X4J3pp3aDYzh
 
 I also used Chat GPT for any issues I encountered while debugging, as I am not too familiar with JS/CSS/HTML. 
 
-All the images are hand-drawn by me through procreate (excluding the wind and humidity symbols. Image credit for these: https://www.freepik.com/)
+All the images are hand-drawn by me through Procreate (excluding the wind and humidity symbols. Image credit for these: https://www.freepik.com/)
 
