@@ -16,6 +16,8 @@ Azula: thunderstorm
 
 Toph: dust, smoke, etc. 
 
+Avatar State: Tornado (Coming soon!)
+
 I used a YouTube tutorial to first understand the code behind connnecting a weather API to code. I followed the tutorial, then created my own project
 where I changed and added many elements to personalize my app. 
 Link to the YouTube video: https://youtu.be/MIYQR-Ybrn4?si=c_W0X4J3pp3aDYzh
