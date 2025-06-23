@@ -13,7 +13,7 @@ Zuko: clear
 
 Azula: thunderstorm 
 
-Toph: dust, smoke, etc. 
+Toph: dust, smoke, etc. (Coming soon!)
 
 Avatar State: Tornado (Coming soon!)
 
