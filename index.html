@@ -1,3 +1,7 @@
+<!--Ria Rose Garg-->
+<!--19th June 2025-->
+<!--This is the HTML doc for the ATLA weather app-->
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -11,7 +15,7 @@
 
   <div class="card">
 
-    <!-- Default Aang background -->
+    <!-- Welcome Screen ATLA background -->
     <div class="content">
       <img src="images/atla.jpg" class="bg-image" />
     </div>
@@ -29,29 +33,28 @@
 
     <!-- Weather Info -->
     <div class="weather">
-      <!-- Weather icon will be inserted here via JavaScript -->
       <h1 class="temp">--°F</h1>
       <h2 class="city">Welcome to the ATLA Weather App</h2>
       <p class="quote">"When we hit our lowest point, we are open to the greatest change."</p>
-
- <div class="details">
-    <div class="col">
-      <img src="images/humidity.png" />
-      <div>
-        <p class="humidity">--%</p>
-        <p>Humidity</p>
-      </div>
+      
+      <!-- Humidity and Wind images and information -->
+      <div class="details">
+        <div class="col">
+            <img src="images/humidity.png" />
+            <div>
+                <p class="humidity">--%</p>
+                <p>Humidity</p>
+            </div>
+        </div>
+        <div class="col">
+            <img src="images/wind.png" />
+            <div>
+                <p class="wind">-- mph</p>
+                <p>Wind Speed</p>
+            </div>
+        </div>
     </div>
-    <div class="col">
-      <img src="images/wind.png" />
-      <div>
-        <p class="wind">-- mph</p>
-        <p>Wind Speed</p>
-      </div>
-    </div>
-  </div>
 </div>
-
-  <script src="atlaScript.js"></script>
+<script src="atlaScript.js"></script>
 </body>
 </html>
