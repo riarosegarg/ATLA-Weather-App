@@ -1,3 +1,8 @@
+/* Ria Rose Garg
+   20 June 2025
+   This is the CSS doc for the ATLA Weather App. It styles the entire application. 
+*/
+
 * {
   margin: 0;
   padding: 0;
@@ -13,12 +18,12 @@ body {
   position: relative;
   width: 100%;
   max-width: 600px;
-  height: 800px; /* allows it to grow with content */
+  height: 800px; 
   margin: 300px auto;
   padding: 40px 35px;
   border-radius: 20px;
 
-  background: rgba(0, 0, 0, 0.5);       /* translucent dark overlay */
+  background: rgba(0, 0, 0, 0.5);      /* translucent dark overlay */
   backdrop-filter: blur(6px);           /* frosted glass effect */
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
 
@@ -27,7 +32,7 @@ body {
   z-index: 1;
   overflow: hidden;
 
-  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.75); /* makes white text pop */
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.75); 
 }
 
 .background {
@@ -45,9 +50,6 @@ body {
   height: 100%;
   object-fit: cover;
 }
-
-
-
 
 .weather {
   display: flex;
@@ -161,18 +163,12 @@ body {
 }
 
 .details .col:first-child {
-  margin-right: 60px; /* increase to move further right */
+  margin-right: 60px; /* increase to move more to the right */
 }
-
 
 .details .col:first-child img {
-  margin-left: 20px; /* adjust the value as needed */
+  margin-left: 20px;
 }
-
-
-
-
-
 
 .col {
   display: flex;
@@ -207,4 +203,3 @@ body {
   text-align: left;
   color: #ff8080;
 }
-
