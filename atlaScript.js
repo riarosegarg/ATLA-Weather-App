@@ -40,7 +40,8 @@ async function checkWeather(city) {
       quote = "“You’re so beautiful when you hate the world.”";
     } else if (weather === "rain") {
       character = "katara";
-      quote = "“Love is brightest in the dark.”";
+      // quote = "“Love is brightest in the dark.”";
+      quote = "“I will never, ever turn my back on people who need me.”";
     } else if (weather === "clouds" || weather === "cloudy" || weather === "party cloudy") {
       character = "iroh";
       quote = "“Life happens wherever you are.”";
